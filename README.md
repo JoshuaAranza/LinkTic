@@ -1,7 +1,7 @@
 # PROYECTO LINKTIC
 Esta es la prueba para el cargo de "Desarrollador".
 
-Esto son datos escenciales para hacer uso del Wordpress y su base de datos:
+Esto son datos esenciales para hacer uso del Wordpress y su base de datos:
 
 DB_NAME: u791635985_MRQ8Y
 
